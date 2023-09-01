@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: BlueBotPC LLC
+    name: BlueBotPC
     tagline: Enabling Growth with Technology
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,22 +39,20 @@ sidebar:
     interests:
       title: Specialties
       info:
-        - item: Lap
-          link:
+        - item: Network & Cloud Services
+          link: bluebotpc.com/pages/wordpress/
 
-        - item: Motorsports
-          link:
+        - item: Desktop & Laptop Repair
+          link: bluebotpc.com/pages/pc/
 
-        - item: Agriculture
+        - item: Game Server Hosting
           link:
 
 career-profile:
     title: Company Overview
     summary: |
-      Motivated Infrastructure Technician with a demonstrated ability to perform
-      engineering-level troubleshooting in Cisco, Juniper, and Versa Networks environments. I am experienced
-      in managing networking, compute, storage, and cloud infrastructures and technologies.
- 
+      Family-owned IT Services Provider based in New Salem, North Dakota serving the local community. 
+      Offering affordable PC Repair and Managed WordPress website hosting!
 
 education:
     title: Education
@@ -109,27 +107,43 @@ experiences:
           Network Management using Ubiquiti.
 
 certifications:
-      title: Certifications
+      title: Company Certifications
       list:
         - name: Akamai Cloud Partner
           start: 2023
           end: 2025
           organization: Akamai
           #credentialid: 111-222
-          credentialurl: www.linode.com
+          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png
           credentialname: Cloud Computing Masterclass
           details: |
-            This course offers a comprehensive guide for aspiring cloud practitioners 
-            interested in learning the complete lifecycle of virtual instance deployment and configuration 
-            on the cloud platform Linode...
-            - Linux Foundations
-            - Foundations of Server Security
-            - Server Scaling
+            Comprehensive introduction into the lifecycle of virtual instance deployment and 
+            configuration management for Cloud Practitioners of the Linode Platform.
+            - Linode CLI & API
+            - Server & Cloud Security
+            - Server & Database Scaling
+            - Linux Compute Administration
+
+        - name: Certified IT Professional
+          start: 2022
+          end: 2025
+          organization: CompTIA
+          #credentialid: 111-222
+          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/rubyCompTIA_itf_certification.pdf
+          credentialname: CompTIA IT Fundamentals+
+          details: |
+            Comprehensive introduction into the lifecycle of virtual instance deployment and 
+            configuration management for Cloud Practitioners of the Linode Platform.
+            - IT Concepts & Terminology
+            - Infrastructure
+            - Software Development
+            - Database Fundamentals
+            - Security Fundamentals
             
         - name: Learn Linux in 5 Days
-          start: 2023
+          start: 2023 
           organization: Udemy
-          credentialid: UC-31651e38-c00a-4cde-8645-08ebfa07b97
+          #credentialid: UC-31651e38-c00a-4cde-8645-08ebfa07b97
           credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
           credentialname: Learn Linux in 5 Days & Level Up your Career
           details: |
@@ -154,7 +168,7 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      Below you will find a short list of my favorite Open-Source programs that I have contributed too.
+      Below you will find a list of our favorite open-source programs that our company has contributed or donated too.
     contributions:
       - title: Pi-Hole
         link: "https://github.com/pi-hole/pi-hole"
@@ -168,14 +182,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Akamai Cloud Solutions
+      - name: General IT Support
         level: 100%
 
-      - name: Network Engineering
+      - name: Home & Small Business Support
+        level: 100%
+
+      - name: Akamai Cloud Services
         level: 95%
 
       - name: HTML5 & CSS3
-        level: 80%
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
