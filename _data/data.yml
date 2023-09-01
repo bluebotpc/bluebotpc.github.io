@@ -40,10 +40,10 @@ sidebar:
       title: Specialties
       info:
         - item: Network & Cloud Services
-          link: bluebotpc.com/pages/wordpress/
+          link: "https://bluebotpc.com/pages/wordpress/"
 
         - item: Desktop & Laptop Repair
-          link: bluebotpc.com/pages/pc/
+          link: "https://bluebotpc.com/pages/pc/"
 
         - item: Game Server Hosting
           link:
@@ -153,17 +153,18 @@ certifications:
             - Automation using cron
 
 projects:
-    title: Projects
+    title: Our Portfolio
     intro: >
       Side projects that I participate in for fun.
     assignments:
-      - title: BlueBotPC LLC
+      - title: Our Website
         link: "https://www.bluebotpc.com"
-        tagline: "Family-owned IT Services Provider based in New Salem, North Dakota"
     
-      - title: Blog
+      - title: Matt's WordPress
         link: "https://www.mattfaulkner.net"
-        tagline: "Personal Blog & Online Space"
+
+      - title: Matt's Resume
+        link: "https://goobyfrs.github.io"
 
 oss:
     title: OSS Contributions
@@ -182,13 +183,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: General IT Support
+      - name: End User Support
         level: 100%
 
-      - name: Home & Small Business Support
+      - name: Network Support
         level: 100%
 
-      - name: Akamai Cloud Services
+      - name: Akamai Cloud
         level: 95%
 
       - name: HTML5 & CSS3
