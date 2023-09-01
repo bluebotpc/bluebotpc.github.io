@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: support@bluebotpc.com
-    phone: 012 345 6789
+    phone: 303 995 9792
     timezone: America/Chicago
     #citizenship:
     website: www.bluebotpc.com #do not add http://
@@ -52,14 +52,14 @@ career-profile:
     title: Company Overview
     summary: |
       Family-owned IT Services Provider based in New Salem, North Dakota serving the local community. 
-      Offering affordable PC Repair and Managed WordPress website hosting!
+      We offer affordable PC Repair and general IT Support for the Home and Small Business.
 
 education:
     title: Education
     info:
       - degree: Computer Information System, AAS 
         university: Community College of Aurora
-        time: 2018 - 2023
+        #time: 2018 - 2023
         details: |
           Understanding how to leverage and implement successful computer information systems
           in enterprise environments.
@@ -70,7 +70,7 @@ education:
 
       - degree: Certified Enterprise PC Support Technician
         university: Pickens Technical College
-        time: 2016 - 2018
+        #time: 2016 - 2018
         details: |
           Intoduction to the industry of servicing, maintaining, 
           and repairing computers, computer and networking systems.
@@ -155,7 +155,7 @@ certifications:
 projects:
     title: Our Portfolio
     intro: >
-      Side projects that I participate in for fun.
+      Check out some examples of our services in action!
     assignments:
       - title: Our Website
         link: "https://www.bluebotpc.com"
@@ -167,7 +167,7 @@ projects:
         link: "https://goobyfrs.github.io"
 
 oss:
-    title: OSS Contributions
+    title: Open Source Contributions
     intro: >
       Below you will find a list of our favorite open-source programs that our company has contributed or donated too.
     contributions:
