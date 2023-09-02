@@ -126,14 +126,13 @@ certifications:
 
         - name: Certified IT Professional
           start: 2022
-          end: 2025
           organization: CompTIA
           credentialid: COMP001022022329
           credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/rubyCompTIA_itf_certification.pdf
           credentialname: CompTIA IT Fundamentals+
           details: |
-            Comprehensive introduction into the lifecycle of virtual instance deployment and 
-            configuration management for Cloud Practitioners of the Linode Platform.
+            CompTIA ITF+ provides an IT education foundation for upskilling in secondary, post-secondary and beyond.
+            Covers all IT fundamentals, creating a broader understanding and a helpful on-ramp to tech career pathways.
             - IT Concepts & Terminology
             - Infrastructure
             - Software Development
@@ -165,6 +164,9 @@ projects:
 
       - title: Matt's Resume
         link: "https://goobyfrs.github.io"
+      
+      - title: Rubys's Resume
+        link: "https://rubyskinner.github.io"
 
 oss:
     title: Open Source Contributions
